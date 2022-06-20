@@ -1,5 +1,7 @@
 # HDownloader 并发批量下载器
 
+<div align="center"><img src="https://user-images.githubusercontent.com/75195784/174586386-b8ce938f-f2ea-4018-a33a-75dea1bfc4fd.png" alt="icon" width="100px" height="100px"></div>
+
 轻量级大量文件批量下载。命令行工具，无需安装。
 
 适用范围：大量文件且需要改名的文件下载
