@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "minimist": "^1.2.6",
+    "node-fetch": "^2.6.7",
+    "progress-stream": "^2.0.0"
+  },
+  "name": "hdownloader",
+  "version": "1.2.33",
+  "author": "HowardZhangdqs",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [],
+  "license": "MIT"
+}
